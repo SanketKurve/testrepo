@@ -1,0 +1,22 @@
+#firstportion {
+    text-align: center;
+}
+#outer {
+    margin-left: 420px;
+    margin-right: 420px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+#smallwords{
+    font-size: 15px;
+}
+#taxinv {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 15px;
+}
+h4,h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
